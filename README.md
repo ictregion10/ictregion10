@@ -17,8 +17,8 @@ Here you will find repositories related to:
 - Open-source projects to help **improve educational technology adoption**.  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ictregion10&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ictregion10&layout=compact)  
 
 ## 🌐 Official Links
 - 📘 [DepEd Region 10 Facebook Page](https://www.facebook.com/depedregion10)  
